@@ -1,4 +1,4 @@
-## Hi, I'm Tajetdinova Madina <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhdzB4bG1yZmVjOHI0MGplZzl0Y2M2MXVpeGNmYjFnbXhibGZldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BA0XQcffhv9boXWkhW/giphy.gif" width="30">
+## Hi, I'm Tajetdinova Madina <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW53d2xlZWdwZjN2cGFxOGo2NGphMDZ1MXdsemtvM2w0MG5ubGllNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.gif" width="45">
 
 <!--
 **madinaio/madinaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
