@@ -1,4 +1,4 @@
-## Hi, I'm Tajetdinova Madina 👋
+## Hi, I'm Tajetdinova Madina <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhdzB4bG1yZmVjOHI0MGplZzl0Y2M2MXVpeGNmYjFnbXhibGZldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BA0XQcffhv9boXWkhW/giphy.gif">
 
 <!--
 **madinaio/madinaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
