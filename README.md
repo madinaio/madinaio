@@ -1,9 +1,7 @@
 # Hi, I'm Tajetdinova Madina <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW53d2xlZWdwZjN2cGFxOGo2NGphMDZ1MXdsemtvM2w0MG5ubGllNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.gif" width="45">
 
-
-# h1
-## h2
-### h3
+### Software Engineer Student
+### Web developer Student
 
 <!--
 **madinaio/madinaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
